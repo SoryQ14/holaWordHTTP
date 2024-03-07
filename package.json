@@ -1,0 +1,22 @@
+{
+  "name": "hiword",
+  "version": "1.0.0",
+  "description": "Hola mundo en node.js con HTTP",
+  "main": "hiWordNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoryQ14/holaWordHTTP.git"
+  },
+  "keywords": [
+    "textoplano"
+  ],
+  "author": "Soraya Quintana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoryQ14/holaWordHTTP/issues"
+  },
+  "homepage": "https://github.com/SoryQ14/holaWordHTTP#readme"
+}
